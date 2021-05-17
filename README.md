@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- https://gitlab.com/ruimartinsptl
+- https://rui.martins.pt
+
+- I’m currently working with Terraform, Kubernetes, Helm, CI/CD Pipelines, FastAPI, SQL and NoSQL DBs, etc, etc...
+
 <!--
 **ruimartinsptl/ruimartinsptl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
